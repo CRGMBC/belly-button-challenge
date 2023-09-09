@@ -71,7 +71,7 @@ function bubblechart(samples,selectedValue) {
     marker: {
       size: obj.sample_values,
       color: obj.otu_ids,
-      colorscale: "Sunset",
+      colorscale: "Viridis",
     },
   },
 ];
