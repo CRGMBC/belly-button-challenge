@@ -27,4 +27,4 @@ Customize the charts and display by modifying the code within the barchart, bubb
 ## Deployment:
 
 Here is the link to the dashboard:
-https://github.com/CRGMBC/belly-button-challenge.git
+https://crgmbc.github.io/belly-button-challenge/
